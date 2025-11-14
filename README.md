@@ -16,9 +16,16 @@ We recommend that you try __BOTH__ methods for the course. Running the exercices
 ---
 ### Option A. Running things on your laptop
 
-To run things on your local computer, you will have to install additional software to be able to properly run the notebooks.
+To run things on your local computer, you will have to install additional software to be able to properly run the notebooks. Given the wide range of operating systems available out there, we cannot guarantee that the instructions below will work on _all_ platforms.
 
-Given the wide range of operating systems available out there, we cannot guarantee that the instructions above will work on _all_ platforms. As of now, __the instructions below have been tested on the following systems:__
+There are essentially two ways of doing this:
+
+#### Method 1 (Recommended): Using VS code
+
+* [__Instructions for all operating systems__](./docs/minimal_install_vscode_miniconda.md)
+
+#### Method 2: Using Anaconda
+(As of now, the instructions below have been tested on the following systems:)
 
 * [__Instructions for Linux__](./docs/install_instruction_linux.md)
 
